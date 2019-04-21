@@ -9,12 +9,13 @@ export default class Tour extends Component {
     });
   };
   render() {
-    const { city, img, name, info } = this.props.tour;
+    const { removeTour } = this.props;
+    const { id, city, img, name, info } = this.props.tour;
     return (
       <article className="tour">
         <div className="img-container">
           <img src={img} alt="" />
-          <span className="close-btn">
+          <span onClick={() => removeTour(id)} className="close-btn">
             <i className="fas fa-window-close" />
           </span>
         </div>
