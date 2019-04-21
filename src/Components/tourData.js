@@ -46,5 +46,13 @@ export const tourData = [
     name: "never look back or ur neck will break ",
     info:
       "he sweeping white-sand crescent of Bondi is one of Australia’s most iconic beaches. Reliable waves draw surfers while, nearby, hardy locals swim in the Icebergs ocean pool year-round. Trendy, health-conscious Sydneysiders head to laid-back cafes around Hall Street, while hip backpackers frequent the area's casual pubs. Walkers and joggers use the clifftop Bondi to Coogee Coast"
+  },
+  {
+    id: 7,
+    city: "Initoook-City",
+    img: "./img/Welcome.jpeg",
+    name: "never a goodbye, we look forward to seeing you again ",
+    info:
+      "he sweeping white-sand crescent of Bondi is one of Australia’s most iconic beaches. Reliable waves draw surfers while, nearby, hardy locals swim in the Icebergs ocean pool year-round. Trendy, health-conscious Sydneysiders head to laid-back cafes around Hall Street, while hip backpackers frequent the area's casual pubs. Walkers and joggers use the clifftop Bondi to Coogee Coast"
   }
 ];
