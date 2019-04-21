@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+$mainBlack: rgb(25, 4, 39);
+$mainPep: #7839e4;
+$mainWhite: #ffffff;
+$mainGray: #eceaea;
+
+body {
+  background: $mainWhite;
+  color: $mainPep;
+  font-family: "Old Standard TT", serif;
+}
