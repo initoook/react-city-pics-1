@@ -29,7 +29,7 @@ export const tourData = [
     img: "./img/SomeCity.jpeg",
     name: "free your mind and dont't give a **** ",
     info:
-      "he sweeping white-sand crescent of Bondi is one of Australia’s most iconic beaches. Reliable waves draw surfers while, nearby, hardy locals swim in the Icebergs ocean pool year-round. Trendy, health-conscious Sydneysiders head to laid-back cafes around Hall Street, while hip backpackers frequent the area's casual pubs. Walkers and joggers use the clifftop Bondi to Coogee Coast"
+      "crescent of Bondi is one of Australia’s most iconic beaches. Reliable waves draw surfers wardy locals swim in the Icebergs ocean pool year-round. Trendy, health-conscious Sydneysiders head to laid-back cafes around Hall Street, while hip backpackers frequent the area's casual pubs. Walkers and joggers use the clifftop Bondi to Coogee Coast"
   },
   {
     id: 5,
@@ -37,7 +37,7 @@ export const tourData = [
     img: "./img/Sydney.jpeg",
     name: "say something, enjoy something ",
     info:
-      "he sweeping white-sand crescent of Bondi is one of Australia’s most iconic beaches. Reliable waves draw surfers while, nearby, hardy locals swim in the Icebergs ocean pool year-round. Trendy, health-conscious Sydneysiders head to laid-back cafes around Hall Street, while hip backpackers frequent the area's casual pubs. Walkers and joggers use the clifftop Bondi to Coogee Coast"
+      "he sw, hardy locals swim in the Icebergs ocean pool year-round. Trendy, health-conscious Sydneysiders head to laid-back cafes around Hall Street, while hip backpackers frequent the area's casual pubs. Walkers and joggers use the clifftop Bondi to Coogee Coast"
   },
   {
     id: 6,
@@ -45,7 +45,7 @@ export const tourData = [
     img: "./img/Uptown.jpeg",
     name: "never look back or ur neck will break ",
     info:
-      "he sweeping white-sand crescent of Bondi is one of Australia’s most iconic beaches. Reliable waves draw surfers while, nearby, hardy locals swim in the Icebergs ocean pool year-round. Trendy, health-conscious Sydneysiders head to laid-back cafes around Hall Street, while hip backpackers frequent the area's casual pubs. Walkers and joggers use the clifftop Bondi to Coogee Coast"
+      "hAustralia’s most iconic beaches. Reliable waves draw surfers while, nearby, hardy locals swim in the Icebergs ocean pool year-rounscious Sydneysiders head to laid-back cafes around Hall Street, while hip backpackers frequent the area's casual pubs. Walkers and joggers use the clifftop Bondi to Coogee Coast"
   },
   {
     id: 7,
@@ -53,6 +53,6 @@ export const tourData = [
     img: "./img/Welcome.jpeg",
     name: "never a goodbye, we look forward to seeing you again ",
     info:
-      "he sweeping white-sand crescent of Bondi is one of Australia’s most iconic beaches. Reliable waves draw surfers while, nearby, hardy locals swim in the Icebergs ocean pool year-round. Trendy, health-conscious Sydneysiders head to laid-back cafes around Hall Street, while hip backpackers frequent the area's casual pubs. Walkers and joggers use the clifftop Bondi to Coogee Coast"
+      " e hip backpackers frequent the area's casual pubs. Walkers and joggers use the clifftop Bondi to Coogee Coashe sweeping white-sand crescent of  b crescent of Bondi is one of eaches. Reliable waves draw surBondi is oneogee Coast"
   }
 ];
